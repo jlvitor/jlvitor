@@ -6,7 +6,7 @@
 
 ## :mailbox: Contato
 
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JeanLucasVitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-lucas-vitor-9b70a9b1/)](https://www.linkedin.com/in/jean-lucas-vitor-9b70a9b1/)
+<br/> :email: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-JeanLucasVitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-lucas-vitor-9b70a9b1/)](https://www.linkedin.com/in/jean-lucas-vitor-9b70a9b1/)
 [![Gmail Badge](https://img.shields.io/badge/-jeanlucasvitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanlucasvitor@gmail.com)](mailto:jeanlucasvitor@gmail.com)
 
  <br/> :department_store: &nbsp; Atualmente trabalhando como Auxiliar de Logística III
