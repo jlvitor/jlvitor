@@ -23,7 +23,7 @@
  ## Language
  
  <br/> 🇧🇷 &nbsp; Portuguese (maternal)
- <br/> :us: &nbsp; English (intermediate)
+ <br/> :us: &nbsp; English (basic)
 
 
 <!--
