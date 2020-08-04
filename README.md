@@ -1,6 +1,6 @@
 # Jean Lucas Vitor
 
-## Olá pessoal 👋
+## Hello 👋
 
 :computer: Sou um futuro Desenvolvedor Front-end :computer:
 
