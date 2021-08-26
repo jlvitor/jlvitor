@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jean Lucas Vitor</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
-- 🔭 I’m currently working as **mobile developer intern**
+- 🔭 **I’m currently working as **mobile developer intern**
 
-- 🌱 I’m currently learning **React Native, TypeScript**
+- 🌱 **I’m currently learning **React Native, TypeScript**
 
-- 📫 How to reach me **jeanlucasvitor@gmail.com**
+- 📫 **How to reach me **jeanlucasvitor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
