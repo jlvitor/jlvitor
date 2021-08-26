@@ -1,29 +1,19 @@
-# Jean Lucas Vitor
+<h1 align="center">Hi 👋, I'm Jean Lucas Vitor</h1>
+<h3 align="center">A passionate mobile developer</h3>
 
-## Hello 👋
+- 🔭 I’m currently working as **mobile developer intern**
 
-:computer: Sou um futuro Desenvolvedor Front-end :computer:
+- 🌱 I’m currently learning **React Native, TypeScript**
 
- <br/> :department_store: &nbsp; Currently working as Logistics Assistant
- <br/> :computer: &nbsp; Development stacks: HTML/ CSS/ JS
- <br/> :blue_heart: &nbsp; I would like cooperate in front-end projects
- <br/> :blush: &nbsp; I could help you with basic HTML and CSS
+- 📫 How to reach me **jeanlucasvitor@gmail.com**
 
-## Contact
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jean-lucas-vitor-9b70a9b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-lucas-vitor-9b70a9b1" height="30" width="40" /></a>
+</p>
 
- <br/> :arrow_right: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-JeanLucasVitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-lucas-vitor-9b70a9b1/)](https://www.linkedin.com/in/jean-lucas-vitor-9b70a9b1/)
- <br/> :arrow_right: &nbsp; [![Gmail Badge](https://img.shields.io/badge/-jeanlucasvitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanlucasvitor@gmail.com)](mailto:jeanlucasvitor@gmail.com)
-
-## About me
-
- <br/> :space_invader: &nbsp; Tech lover
- <br/> :video_game: &nbsp; I enjoy play games like Battlefield, LoL, MLBB, COD
- <br/> :tv: &nbsp; I like watch animes and Netflix
- 
- ## Language
- 
- <br/> 🇧🇷 &nbsp; Portuguese (maternal)
- <br/> :us: &nbsp; English (basic)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
 <!--
