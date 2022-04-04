@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jean Lucas Vitor</h1>
-<h3 align="center">A passionate mobile developer</h3>
+<h3 align="center">A passionate iOS developer from Brazil</h3>
 
-- 🔭 I’m currently working as **mobile developer intern**
+- 🌱 I’m currently learning **Swift/ UIKit/ SwiftUI**
 
-- 🌱 I’m currently learning **React Native, TypeScript**
+- 👯 I’m looking to collaborate on **iOS projetcs**
 
 - 📫 How to reach me **jeanlucasvitor@gmail.com**
 
@@ -13,8 +13,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-<!--
-**jlvitor/jlvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
