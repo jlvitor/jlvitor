@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Lucas Vitor</h1>
 <h3 align="center">A passionate iOS developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Swift/ UIKit/ SwiftUI**
+- 🌱 I’m currently learning **Swift/ UIKit**
 
 - 👯 I’m looking to collaborate on **iOS projetcs**
 
